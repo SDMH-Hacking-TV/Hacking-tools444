@@ -19,9 +19,9 @@ apt update
 
 apt install git
 
-git clone https://github.com/rixon-cochi/hacking-tool.git
+git clone https://github.com/SDMH-Hacking-TV/Hacking-tools444.git
 
-cd hacking-tool
+cd Hacking-tools444
 
 bash install.sh
 
